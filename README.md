@@ -1,3 +1,6 @@
+
+One of https://www.codeschool.com/projects this was great fun and only took part of my lunch hour.  The CodeSchool.com worksheet even points out that you can use github pages to display your work.  For me that means http://mattpayne.org/jQueryBadgesProject/   Because I have mapped my vanity domain to my github pages.
+
 # Use jQuery to Fetch and Show Code School Badges Using Ajax
 
 You’ll build a personal web page that displays the courses you’ve completed on Code School by pulling data from the Code School website.
